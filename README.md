@@ -14,6 +14,6 @@ desenvolvido como parte de um desafio do curso de Formação Github. O objetivo 
 - **Ferramenta**: GitHub e VisualCode
 
 ### Contatos
-**Nome**: Yago Emanuel 
-**Email**: yagoemanuel2013@hotmail.com 
-**GitHub**: yagodevvv 
+**Nome**: Yago Emanuel <br>
+**Email**: yagoemanuel2013@hotmail.com <br>
+**GitHub**: yagodevvv <br>
