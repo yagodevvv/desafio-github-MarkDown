@@ -1,8 +1,8 @@
 # desafio-github-MarkDown
 
 ![GitHub](https://img.shields.io/github/license/yagodevvv/desafio-git-MarkDown)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/nome-do-repositorio)
-![GitHub issues](https://img.shields.io/github/issues/seu-usuario/nome-do-repositorio)
+![GitHub last commit](https://img.shields.io/github/last-commit/yagodevvv/desafio-github-MarkDown)
+![GitHub issues](https://img.shields.io/github/issues/yagodevvv/desafio-github-MarkDown)
 
 ## Descrição 
 
